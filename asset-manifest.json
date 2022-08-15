@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/urban-telegram/static/css/main.98f3c768.css",
+    "main.js": "/urban-telegram/static/js/main.5a747bcc.js",
+    "static/media/input-bg-03.jpg": "/urban-telegram/static/media/input-bg-03.90550112045d2c745c68.jpg",
+    "static/media/input-bg-06.jpg": "/urban-telegram/static/media/input-bg-06.2c46cb934a147b85557f.jpg",
+    "static/media/input-bg-04.jpg": "/urban-telegram/static/media/input-bg-04.ae699b75b5eb74235c07.jpg",
+    "static/media/input-bg-05.jpg": "/urban-telegram/static/media/input-bg-05.329733d61d5937b7b239.jpg",
+    "static/media/bg.jpg": "/urban-telegram/static/media/bg.c7be73af2d3fa1a10d94.jpg",
+    "static/media/input-bg-01.jpg": "/urban-telegram/static/media/input-bg-01.f2571c0b9796d0e753a6.jpg",
+    "index.html": "/urban-telegram/index.html",
+    "main.98f3c768.css.map": "/urban-telegram/static/css/main.98f3c768.css.map",
+    "main.5a747bcc.js.map": "/urban-telegram/static/js/main.5a747bcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98f3c768.css",
+    "static/js/main.5a747bcc.js"
+  ]
+}
